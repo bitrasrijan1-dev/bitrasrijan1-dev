@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Srijan Bitra  
+ Security Analyst | SOC | SIEM | Threat Hunting | Cloud Security
 
-<!--
-**bitrasrijan1-dev/bitrasrijan1-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in **Blue Team security**, focusing on:
 
-Here are some ideas to get you started:
+🔹 SOC Monitoring & Alert Triage  
+🔹 Log Analysis (Windows, Sysmon, PowerShell)  
+🔹 Threat Hunting & MITRE ATT&CK  
+🔹 PCAP / Network Forensics  
+🔹 Cloud Security (AWS SAA)  
+🔹 Incident Response & Investigation Writeups
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub contains all my **complete SOC investigation projects**, each structured with:
+
+✔ Summary  
+✔ Attack Chain Reconstruction  
+✔ MITRE Mapping  
+✔ IOCs  
+✔ Evidence Screenshots  
+✔ Detection Logic  
+✔ What I Learned  
+
+Open to **SOC Analyst roles in India,Dubai, Singapore, and global remote opportunities.**
