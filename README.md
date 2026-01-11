@@ -20,4 +20,4 @@ This GitHub contains all my **complete SOC investigation projects**, each struct
 ✔ Detection Logic  
 ✔ What I Learned  
 
-Open to **SOC Analyst roles in India,Dubai, Singapore, and global remote opportunities.**
+Open to **SOC Analyst roles in India,Dubai and global remote opportunities.**
